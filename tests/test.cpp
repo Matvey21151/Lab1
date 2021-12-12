@@ -1,4 +1,3 @@
-// Copyright 2021 Matvey21151
 #include <gtest/gtest.h>
 #include <header.hpp>
 
